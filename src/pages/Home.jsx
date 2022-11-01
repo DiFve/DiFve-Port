@@ -2,12 +2,12 @@ import me from "../img/3D Jark.jpeg";
 
 const Home = () => {
   return (
-    <div className="  w-full bg-dark-blue1 font-mono shrink grow">
-      <div className="flex flex-row justify-center">
-        <div className="h-96 w-96 rounded-xl">
-          <img className="pt-6 object-cover w-full" src={me} />
+    <div className="w-full bg-dark-blue1 font-mono shrink grow flex flex-col justify-center">
+      <div className="flex flex-row justify-center items-center">
+        <div className="w-96 ">
+          <img className="rounded-xl object-cover w-full" src={me} />
         </div>
-        <div className="pt-[10%] pl-[10%] flex flex-col">
+        <div className="pl-[10%] flex flex-col">
           <h1 className="mb-2 font-mono text-4xl text-gray-100 md:text-6xl">
             hi, I&apos;m <br className="block md:hidden" />
             <span className="relative">
