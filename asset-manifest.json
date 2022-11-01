@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/DiFve-Port/static/css/main.598937cd.css",
-    "main.js": "/DiFve-Port/static/js/main.e64a4219.js",
+    "main.css": "/DiFve-Port/static/css/main.86015ed5.css",
+    "main.js": "/DiFve-Port/static/js/main.7d39053b.js",
     "static/js/787.1ed0c42c.chunk.js": "/DiFve-Port/static/js/787.1ed0c42c.chunk.js",
+    "static/media/3D Jark.jpeg": "/DiFve-Port/static/media/3D Jark.dcb538175aaf7ee5c3d3.jpeg",
     "static/media/ScrimApp.jpg": "/DiFve-Port/static/media/ScrimApp.9bdb4311ed8869f87056.jpg",
     "static/media/Foody.jpg": "/DiFve-Port/static/media/Foody.7e5c6bb1f8fe6fde3235.jpg",
     "static/media/github-logo.png": "/DiFve-Port/static/media/github-logo.a5993f99b1c3c8984531.png",
     "static/media/tamsang.png": "/DiFve-Port/static/media/tamsang.cf1226ff1f6d0e64442b.png",
     "index.html": "/DiFve-Port/index.html",
-    "main.598937cd.css.map": "/DiFve-Port/static/css/main.598937cd.css.map",
-    "main.e64a4219.js.map": "/DiFve-Port/static/js/main.e64a4219.js.map",
+    "main.86015ed5.css.map": "/DiFve-Port/static/css/main.86015ed5.css.map",
+    "main.7d39053b.js.map": "/DiFve-Port/static/js/main.7d39053b.js.map",
     "787.1ed0c42c.chunk.js.map": "/DiFve-Port/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.598937cd.css",
-    "static/js/main.e64a4219.js"
+    "static/css/main.86015ed5.css",
+    "static/js/main.7d39053b.js"
   ]
 }
