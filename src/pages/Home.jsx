@@ -16,14 +16,9 @@ const Home = () => {
         <h1 className="text-[#4d5bce] text-4xl"> {">"} Full-stack Developer</h1>
 
         <h1 className="pt-[81px] text-[#607B96] font-mono">
-          // you can also see it on my Github page
+          // you can contact me @
         </h1>
-        <div className="flex flex-row font-mono">
-          <label className="text-[#4d5bce]"> const&nbsp;</label>
-          <label className="text-[#43D9AD]"> githubLink&nbsp;</label>
-          <label className="text-white"> =&nbsp;</label>
-          <label className="text-[#E99287]">"https://github.com/DiFve"</label>
-        </div>
+
         <div className="flex flex-row font-mono">
           <label className="text-[#4d5bce]"> const&nbsp;</label>
           <label className="text-[#43D9AD]"> email&nbsp;</label>

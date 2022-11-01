@@ -18,7 +18,7 @@ const Project = () => {
         <ProjectCard
           image={Foody}
           head="Foody Front-end"
-          p1="Front-end for Foody-Webapp"
+          p1="Front-end for Foody-webapp"
           p2="developed by React TS"
           link="https://github.com/DiFve/Restaurant-management-system-frontend"
         />
@@ -26,7 +26,7 @@ const Project = () => {
         <ProjectCard
           image={Foody}
           head="Foody Back-end"
-          p1="Back-end for Foody-Webapp"
+          p1="Back-end for Foody-webapp"
           p2="developed by Express NodeJS"
           link="https://github.com/DiFve/Restaurant-management-system-backend"
         />

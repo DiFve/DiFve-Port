@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import fbLogo from "../img/fb.png";
 import githubLogo from "../img/github-logo.png";
+import linkedinLogo from "../img/linkedin.png";
 
 const NavBottom = () => {
   return (
@@ -23,6 +24,12 @@ const NavBottom = () => {
           <div className="basis-[7%] border-r-2 border-slate-600 flex flex-col justify-center items-center ">
             <a href="https://github.com/DiFve">
               <img src={githubLogo} className="h-[24px] w-[24px]" />
+            </a>
+          </div>
+
+          <div className="basis-[7%] border-r-2 border-slate-600 flex flex-col justify-center items-center ">
+            <a href="https://www.linkedin.com/in/manhermak-praditpong-67674621b/">
+              <img src={linkedinLogo} className="h-[24px] w-[24px]" />
             </a>
           </div>
         </div>
