@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DiFve-Port/static/css/main.86015ed5.css",
-    "main.js": "/DiFve-Port/static/js/main.7d39053b.js",
+    "main.css": "/DiFve-Port/static/css/main.e8e6b4b5.css",
+    "main.js": "/DiFve-Port/static/js/main.9874d97c.js",
     "static/js/787.1ed0c42c.chunk.js": "/DiFve-Port/static/js/787.1ed0c42c.chunk.js",
     "static/media/3D Jark.jpeg": "/DiFve-Port/static/media/3D Jark.dcb538175aaf7ee5c3d3.jpeg",
     "static/media/ScrimApp.jpg": "/DiFve-Port/static/media/ScrimApp.9bdb4311ed8869f87056.jpg",
@@ -9,12 +9,12 @@
     "static/media/github-logo.png": "/DiFve-Port/static/media/github-logo.a5993f99b1c3c8984531.png",
     "static/media/tamsang.png": "/DiFve-Port/static/media/tamsang.cf1226ff1f6d0e64442b.png",
     "index.html": "/DiFve-Port/index.html",
-    "main.86015ed5.css.map": "/DiFve-Port/static/css/main.86015ed5.css.map",
-    "main.7d39053b.js.map": "/DiFve-Port/static/js/main.7d39053b.js.map",
+    "main.e8e6b4b5.css.map": "/DiFve-Port/static/css/main.e8e6b4b5.css.map",
+    "main.9874d97c.js.map": "/DiFve-Port/static/js/main.9874d97c.js.map",
     "787.1ed0c42c.chunk.js.map": "/DiFve-Port/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86015ed5.css",
-    "static/js/main.7d39053b.js"
+    "static/css/main.e8e6b4b5.css",
+    "static/js/main.9874d97c.js"
   ]
 }
