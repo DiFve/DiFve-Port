@@ -9,6 +9,7 @@ import {
 import Home from "./pages/Home";
 import Project from "./pages/Project";
 import NavBottom from "./component/NavBottom";
+
 function App() {
   return (
     <div className="flex flex-col h-screen overflow-x-hidden">
@@ -17,6 +18,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/project" element={<Project />} />
+          
         </Routes>
         <NavBottom />
       </BrowserRouter>

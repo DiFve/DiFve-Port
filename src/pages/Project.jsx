@@ -2,17 +2,26 @@ import ProjectCard from "../component/ProjectCard";
 import Tamsang from "../img/tamsang.png";
 import Foody from "../img/Foody.jpg";
 import ScrimApp from "../img/ScrimApp.jpg";
+import ISAGApplication from "../img/Secure_register.jpg";
 
 const Project = () => {
   return (
     <div className=" w-full bg-dark-blue1 font-mono shrink grow">
-      <div className="justify-items-center grid grid-cols-4 ">
+      <div className="justify-items-center grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4">
         <ProjectCard
           image={Tamsang}
           head="Tamsang-Tamsong"
           p1="Website for food delivery"
           p2="co-op with CU and ThaiHealth"
           link="https://www.xn----5wfb7cc3ed2ee9dig6zg.com/"
+        />
+
+        <ProjectCard
+          image={ISAGApplication}
+          head="ISAG Register 2022"
+          p1="Booking ticket website for"
+          p2="event ISAG Secure First #7"
+          link="https://github.com/DiFve/ISAG-Application-2022"
         />
 
         <ProjectCard
@@ -34,8 +43,8 @@ const Project = () => {
         <ProjectCard
           image={ScrimApp}
           head="Scrim Application"
-          p1="Web-App matching two E-sport"
-          p2="team for practice"
+          p1="Web-App for match two E-sport"
+          p2="team to practice"
           link="https://github.com/DiFve/ScrimApp"
         />
       </div>

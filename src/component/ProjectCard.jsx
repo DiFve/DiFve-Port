@@ -4,11 +4,7 @@ const ProjectCard = (props) => {
   return (
     <div class="bg-[#011221] my-10 rounded-lg border border-gray-600 shadow-md dark:bg-gray-800 dark:border-gray-700 h-[360px] w-72">
       <div class="rounded-t-lg w-full h-56 border-gray-300 border-b">
-        <img
-          class="rounded-t-lg h-full w-full object-cover "
-          src={image}
-          alt=""
-        />
+        <img class="rounded-t-lg h-full w-full object-cover " src={image} />
       </div>
 
       <div className="text-[#607B96] flex flex-col justify-center items-center mt-2 w-full">
